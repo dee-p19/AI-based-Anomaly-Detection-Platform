@@ -1,3 +1,5 @@
+AI-BASED-ANOMALY-DETECTION-MODEL
+
 The Intelligent Healthcare Anomaly Detection System is a real-time monitoring and decision support platform
 developed to identify unusual patterns in patient vital signs and provide early health risk alerts.
 Unlike conventional healthcare monitoring solutions that depend on fixed threshold values or manual review after an incident,
